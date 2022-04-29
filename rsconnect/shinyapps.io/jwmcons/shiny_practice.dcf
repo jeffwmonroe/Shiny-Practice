@@ -1,0 +1,11 @@
+name: shiny_practice
+title:
+username:
+account: jwmcons
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6187275
+bundleId: 5844316
+url: https://jwmcons.shinyapps.io/shiny_practice/
+when: 1651091774.7269
+lastSyncTime: 1651091774.7269
